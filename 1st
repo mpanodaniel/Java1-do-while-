@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class repository1{
+public static void main(String [] args){
+int i,j=0;
+System.out.println("Enter any value to be assigned to i:");
+Scanner input=new Scanner(System.in);
+i=in.nextInt();
+do{
+System.out.println(i);
+i++;
+}while(j<=i);
+}
+}
